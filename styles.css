@@ -1,0 +1,34 @@
+body{
+    background-color:#FFF5EE ;
+}
+
+h1{
+    color: #1b334b;
+}
+
+p{
+    color:#708090;
+    font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+hr{
+    border: 1px solid #2a4596;
+}
+
+b{
+    color:#6231af;
+}
+
+#special-bold{
+    color:aquamarine;
+}
+
+#second-par{
+    background-color:
+     #a6abb1;
+     padding: 25px;
+     border:2px solid 
+     #FF0000;
+     margin
+} 
